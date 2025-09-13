@@ -1,6 +1,6 @@
 @echo off
 mode con lines=33 cols=95
-color 4f
+color 4a
 cls
 title TOOL Unlock Bootloader SKWAMX3 TRUEID_SKYWORT_HP42F BY PAT
 :main
